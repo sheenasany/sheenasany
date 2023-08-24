@@ -1,4 +1,6 @@
-<h1>Hi there <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" alt="peeking_cat" style=" width:40px; height:40px;"/>, I'm Sheena Sang👋</h1>
+<h1 align="center"> 
+<img style="max-width: 100%; display: in-block;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpwcXdiNWVqODc2djk5YXU1bXpydWplZmJvamV0c3h2bzZneGk0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57S7i3Bst3ptzFtkbL/giphy.gif"/>
+</h1>
 
 <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" alt="typing_cat" style=" width:40px; height:30px;"/> Get to know me:
 
