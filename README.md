@@ -1,12 +1,15 @@
+<!-- Header Gif --> 
 <img align="center" alt="hi, I'm Sheena, I'm a software engineer" src="https://media3.giphy.com/media/57S7i3Bst3ptzFtkbL/giphy.gif"/>
-![gradient line](https://github.com/sheenasany/sheenasany/assets/105241920/27113740-d154-43ef-a4d4-cad0b89023d7)
+
+<!-- Break -->
+<img align="center" src="https://github.com/sheenasany/sheenasany/assets/105241920/27113740-d154-43ef-a4d4-cad0b89023d7" />
 
 
 
-<!--<img alt="hi, I'm Sheena, I'm a software engineer" src="https://media3.giphy.com/media/57S7i3Bst3ptzFtkbL/giphy.gif"/>-->
 
+
+<h4><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" alt="typing_cat" style=" width:40px; height:30px;"/> Get to know me: </h4>
 <p>
-<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" alt="typing_cat" style=" width:40px; height:30px;"/> Get to know me: 
 
 ```javascript
 const sheena = {
@@ -28,7 +31,17 @@ const sheena = {
 ```
 </p>
 
-<h3 align="left">📚 Blog Posts</h3>
+<!-- Break -->
+<img align="center" src="https://github.com/sheenasany/sheenasany/assets/105241920/27113740-d154-43ef-a4d4-cad0b89023d7" />
+
+<!-- Blog Posts --> 
+<h4 align="left"> <img alt="floating kitty"src="https://github.com/sheenasany/sheenasany/assets/105241920/93e2789a-ac41-4832-abaf-f432b3becac8"  style=" width:40px; height:30px;"/> Blog Posts</h4>
+<p> <!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END --></p>
+
+<!-- Break -->
+<img align="center" src="https://github.com/sheenasany/sheenasany/assets/105241920/27113740-d154-43ef-a4d4-cad0b89023d7" />
 
 <h4>📫 Want to chat?</h4>
 Pick a slot if you'd like to chat about anything you are passionate about - but make sure to describe the agenda
