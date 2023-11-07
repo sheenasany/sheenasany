@@ -1,10 +1,15 @@
 <!-- Header Gif --> 
+<div align="center">
 <img align="center" alt="hi, I'm Sheena, I'm a software engineer" src="https://media3.giphy.com/media/57S7i3Bst3ptzFtkbL/giphy.gif"/>
+</div>
 
 <!-- Break -->
+<div align="center">
 <img align="center" src="https://github.com/sheenasany/sheenasany/assets/105241920/27113740-d154-43ef-a4d4-cad0b89023d7" />
+</div>
 
 <!-- About Me -->
+<div align="center">
 <h4><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" alt="typing_cat" style=" width:40px; height:30px;"/> Get to know me: </h4>
 <p>
 
@@ -27,13 +32,22 @@ const sheena = {
 }
 ```
 </p>
-
+</div>
 
 <!-- Stats -->
-[![Sheena's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheenasany&show_icons=true&theme=ambient_gradient)](https://github.com/sheenasany/github-readme-stats)
+<div align="center">
+<a href="https://github.com/sheenasany/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=sheenasany&show_icons=true&theme=ambient_gradient&hide_rank=true&hide=contribs"/>
+</a>
+<a href="https://github.com/sheenasany/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheenasany&layout=compact"/>
+</a>
+</div>
 
 <!-- Break -->
+<div align="center">
 <img align="center" src="https://github.com/sheenasany/sheenasany/assets/105241920/27113740-d154-43ef-a4d4-cad0b89023d7" />
+</div>
 
 <!-- Blog Posts --> 
 <h4 align="left"> <img alt="floating kitty"src="https://github.com/sheenasany/sheenasany/assets/105241920/93e2789a-ac41-4832-abaf-f432b3becac8"  style=" width:40px; height:30px;"/> Blog Posts</h4>
@@ -42,7 +56,9 @@ const sheena = {
 <!-- BLOG-POST-LIST:END --></p>
 
 <!-- Break -->
+<div align="center">
 <img align="center" src="https://github.com/sheenasany/sheenasany/assets/105241920/27113740-d154-43ef-a4d4-cad0b89023d7" />
+</div>
 
 <h4>📫 Want to chat?</h4>
 Pick a slot if you'd like to chat about anything you are passionate about - but make sure to describe the agenda
