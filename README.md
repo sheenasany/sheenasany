@@ -52,7 +52,6 @@ const sheena = {
 <!-- Blog Posts --> 
 <h4 align="left"> <img alt="floating kitty"src="https://github.com/sheenasany/sheenasany/assets/105241920/93e2789a-ac41-4832-abaf-f432b3becac8"  style=" width:40px; height:30px;"/> Blog Posts</h4>
 <p> <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END --></p>
 
 <!-- Break -->
