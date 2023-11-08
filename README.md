@@ -11,7 +11,7 @@
 <!-- About Me -->
 <div align="center">
 <h4><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" alt="typing_cat" style=" width:40px; height:30px;"/> Get to know me: </h4>
-<p>
+</div>
 
 ```javascript
 const sheena = {
@@ -31,11 +31,11 @@ const sheena = {
  challenge: "Currently working on refactoring some old projects while also thinking up new ones"
 }
 ```
-</p>
-</div>
+
 
 <!-- Stats -->
 <div align="center">
+  <h4><img src="https://github.com/sheenasany/sheenasany/assets/105241920/d6529ec4-5de3-4039-9c9e-c4898c20d250" alt="octolove_cat" style=" width:40px; height:50px;"/> Github Stats </h4>
 <a href="https://github.com/sheenasany/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=sheenasany&show_icons=true&theme=ambient_gradient&hide_rank=true&hide=contribs"/>
 </a>
@@ -50,7 +50,7 @@ const sheena = {
 </div>
 
 <!-- Blog Posts --> 
-<h4 align="left"> <img alt="floating kitty"src="https://github.com/sheenasany/sheenasany/assets/105241920/93e2789a-ac41-4832-abaf-f432b3becac8"  style=" width:40px; height:30px;"/> Blog Posts</h4>
+<h4 align="center"> <img alt="floating kitty"src="https://github.com/sheenasany/sheenasany/assets/105241920/93e2789a-ac41-4832-abaf-f432b3becac8"  style=" width:40px; height:30px;"/> Blog Posts</h4>
 
 <!-- BLOG-POST-LIST:START -->
  - 💯[How to use Mapbox using React-Map-Gl V7 for your React App for beginners](https://dev.to/sheenasany/how-to-use-mapbox-using-react-map-gl-v7-for-your-react-app-for-beginners-2o10)
@@ -59,28 +59,26 @@ const sheena = {
  - 🚀[Abstracting Input Change Logic](https://dev.to/sheenasany/abstracting-input-change-logic-3pcf)
  - 🌮[Listen Up! To Clicks and Submit](https://dev.to/sheenasany/listen-up-to-clicks-and-submit-50hc)<!-- BLOG-POST-LIST:END -->
 
+
 <!-- Break -->
 <div align="center">
 <img align="center" src="https://github.com/sheenasany/sheenasany/assets/105241920/27113740-d154-43ef-a4d4-cad0b89023d7" />
 </div>
 
-<h4>📫 Want to chat?</h4>
-Pick a slot if you'd like to chat about anything you are passionate about - but make sure to describe the agenda
+
+<div align="center">
+<h4><img src="https://github.com/sheenasany/sheenasany/assets/105241920/73a92e09-c068-4a8d-9ab1-bcaf6030b538" alt="sending_message" style=" width:40px; height:50px;"/>Want to chat?</h4>
+Pick a time if you'd like to chat about anything you are passionate about - can't wait to hear from you! <img src="https://github.com/sheenasany/sheenasany/assets/105241920/eba9eb2f-b490-4ad4-b60a-f29ee6262075" alt="peeping_cat" style=" width:40px; height:50px;"/>
 <a href="https://calendly.com/sheenasang/30min" target="_blank" rel="noopener noreferrer">
 <img width="498" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png" alt="meet_link" style=" max-width: 100%;"/>
 </a>
+</div>
 
-<!--
-**sheenasany/sheenasany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Break -->
+<div align="center">
+<img align="center" src="https://github.com/sheenasany/sheenasany/assets/105241920/27113740-d154-43ef-a4d4-cad0b89023d7" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://github.com/sheenasany/sheenasany/assets/105241920/47d1dd41-cc91-4e0b-8ee9-a1d6c5a13599" />
+</div>
