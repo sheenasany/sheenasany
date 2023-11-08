@@ -31,7 +31,30 @@ const sheena = {
  challenge: "Currently working on refactoring some old projects while also thinking up new ones"
 }
 ```
+<!-- Break -->
+<div align="center">
+<img align="center" src="https://github.com/sheenasany/sheenasany/assets/105241920/27113740-d154-43ef-a4d4-cad0b89023d7" />
+</div>
 
+<!--Languages & Tools --> 
+<h4 align="center"> <img src="https://github.com/sheenasany/sheenasany/assets/105241920/8d8ac77d-5362-4497-a5b3-6339655372aa" style=" width:30px; height:30px;" /> Languages and Tools <img src="https://github.com/sheenasany/sheenasany/assets/105241920/8d8ac77d-5362-4497-a5b3-6339655372aa" style=" width:30px; height:30px;" /> </h4>
+<div align="center"> 
+  
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://react.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
+  <a href="https://rubyonrails.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/rails/rails-plain.svg" alt="rails" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  
+</div>
+
+<!-- Break -->
+<div align="center">
+<img align="center" src="https://github.com/sheenasany/sheenasany/assets/105241920/27113740-d154-43ef-a4d4-cad0b89023d7" />
+</div>
 
 <!-- Stats -->
 <div align="center">
@@ -69,7 +92,7 @@ const sheena = {
 <div align="center">
 <h4><img src="https://github.com/sheenasany/sheenasany/assets/105241920/73a92e09-c068-4a8d-9ab1-bcaf6030b538" alt="sending_message" style=" width:40px; height:50px;"/>Want to chat?</h4>
 Pick a time if you'd like to chat about anything you are passionate about - can't wait to hear from you! <img src="https://github.com/sheenasany/sheenasany/assets/105241920/eba9eb2f-b490-4ad4-b60a-f29ee6262075" alt="peeping_cat" style=" width:40px; height:50px;"/>
-<a href="https://calendly.com/sheenasang/30min" target="_blank" rel="noopener noreferrer">
+<a target="_blank" rel="noopener" href="https://calendly.com/sheenasang/30min">
 <img width="498" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png" alt="meet_link" style=" max-width: 100%;"/>
 </a>
 </div>
