@@ -78,11 +78,11 @@ const sheena = {
 <h4 align="center"> <img alt="floating kitty"src="https://github.com/sheenasany/sheenasany/assets/105241920/93e2789a-ac41-4832-abaf-f432b3becac8"  style=" width:40px; height:30px;"/> Blog Posts</h4>
 
 <!-- BLOG-POST-LIST:START -->
- - 💯[How to use Mapbox using React-Map-Gl V7 for your React App for beginners](https://dev.to/sheenasany/how-to-use-mapbox-using-react-map-gl-v7-for-your-react-app-for-beginners-2o10)
- - 💫[Common Rookie Mistake: Mass Assignment Vulnerabilities](https://dev.to/sheenasany/common-rookie-mistake-mass-assignment-vulnerabilities-4n04)
- - 💯[Fetch&lpar;&rpar; vs Axios](https://dev.to/sheenasany/fetch-vs-axios-185)
- - 🚀[Abstracting Input Change Logic](https://dev.to/sheenasany/abstracting-input-change-logic-3pcf)
- - 🌮[Listen Up! To Clicks and Submit](https://dev.to/sheenasany/listen-up-to-clicks-and-submit-50hc)<!-- BLOG-POST-LIST:END -->
+ - 💯[How to use Mapbox using React-Map-Gl V7 for your React App for beginners](https://forem.com/sheenasany/how-to-use-mapbox-using-react-map-gl-v7-for-your-react-app-for-beginners-2o10)
+ - 💫[Common Rookie Mistake: Mass Assignment Vulnerabilities](https://forem.com/sheenasany/common-rookie-mistake-mass-assignment-vulnerabilities-4n04)
+ - 💯[Fetch&lpar;&rpar; vs Axios](https://forem.com/sheenasany/fetch-vs-axios-185)
+ - 🚀[Abstracting Input Change Logic](https://forem.com/sheenasany/abstracting-input-change-logic-3pcf)
+ - 🌮[Listen Up! To Clicks and Submit](https://forem.com/sheenasany/listen-up-to-clicks-and-submit-50hc)<!-- BLOG-POST-LIST:END -->
 
 
 <!-- Break -->
